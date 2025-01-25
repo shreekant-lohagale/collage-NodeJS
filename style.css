@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+    color: black;
+}
+head,
+body{
+    margin: 10px;
+    width: 100%;
+    height: 100%;
+    background-color:antiquewhite;
+}
